@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Roboto";
+  src: url("../fonts/roboto-black.eot");
+  src: local("Roboto Black"), local("Roboto-Black"),
+       url("../fonts/roboto-black.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/roboto-black.woff2") format("woff2"),
+       url("../fonts/roboto-black.woff") format("woff"),
+       url("../fonts/roboto-black.ttf") format("truetype"),
+       url("../fonts/roboto-black.svg#Roboto-Black") format("svg");
+  font-weight: 900;
+  font-style: normal;
+}
